@@ -1,3 +1,10 @@
+# How To Run
+```
+clone the repository using "git clone"
+install all the packages using "npm install"
+run the app using "npm run dev"
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
