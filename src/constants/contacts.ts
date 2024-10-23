@@ -5,7 +5,11 @@ export const contacts = [
     chats: [
       {
         message: "Hi, how are you?",
-        timestamp: "1:24",
+        timestamp: "24 Oct 2024 - 1:24",
+      },
+      {
+        message: "messages...",
+        timestamp: "24 Oct 2024 - 3:24",
       },
     ],
   },
@@ -15,7 +19,7 @@ export const contacts = [
     chats: [
       {
         message: "hi, how are you?",
-        timestamp: "13:24",
+        timestamp: "24 Oct 2024 - 2:24",
       },
     ],
   },
